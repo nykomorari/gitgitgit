@@ -1,0 +1,16 @@
+package com.syntax.class7;
+
+public class ForLoopTask2 {
+
+	public static void main(String[] args) {
+/*
+ * Print numbers from 100 to 1
+ */
+	
+		for(int i=100; i<=1; i+=2) {
+			System.out.print(i+ " ");
+		}
+		
+	}
+
+}

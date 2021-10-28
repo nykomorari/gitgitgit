@@ -1,0 +1,16 @@
+package com.syntax.class6;
+
+public class IncrementAndDecrement {
+
+	public static void main(String[] args) {
+		
+		int num = 100;
+		
+		num = num+1;
+		num+=1;
+		
+		System.out.println(num);
+
+	}
+
+}

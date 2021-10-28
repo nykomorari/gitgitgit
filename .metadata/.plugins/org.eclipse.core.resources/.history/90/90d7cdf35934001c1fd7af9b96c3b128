@@ -1,0 +1,16 @@
+package com.syntax.class6;
+
+public class HW62 {
+
+	public static void main(String[] args) {
+		/*
+		 * Print even numbers from 20 to 100 
+		 */
+		
+		int i = 20;
+		System.out.println(" List of even numbers: ");
+		while(i<=)
+			
+
+	}
+}
